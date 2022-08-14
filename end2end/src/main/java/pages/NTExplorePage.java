@@ -21,7 +21,7 @@ WebDriver driver;
 	this.driver=driver;
 	PageFactory.initElements(driver, this);
 	System.out.println("Avish");
-	
+	System.out.println("Avish");
 	
 	}
 
